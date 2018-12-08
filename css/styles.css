@@ -1,0 +1,25 @@
+h1 {
+  color: #DA33FF;
+}
+body {
+  background-color: #FCFF33;
+}
+.list-item {
+  font-family: monospace;
+}
+
+#css-item {
+  color: gray;
+}
+
+#goal-list {
+  border-style: solid;
+  border-color: #DA33FF;
+  width: 30%;
+}
+#picture {
+  width: 50%;
+  float: right;
+  border: solid;
+  border-color: grey beige white grey;
+}
